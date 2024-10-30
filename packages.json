@@ -13,10 +13,12 @@
     },
     {
         "package": "sl3",
-        "url": "https://github.com/tlverse/sl3"
+        "url": "https://github.com/tlverse/sl3",
+        "branch": "fix-tests"
     },
     {
         "package": "tmle3",
-        "url": "https://github.com/tlverse/tmle3"
+        "url": "https://github.com/tlverse/tmle3",
+        "branch": "devel"
     }
 ]

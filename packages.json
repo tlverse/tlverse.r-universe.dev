@@ -1,0 +1,22 @@
+[
+    {
+        "package": "delayed",
+        "url": "https://github.com/tlverse/delayed"
+    },
+    {
+        "package": "origami",
+        "url": "https://github.com/ltlverse/origami"
+    },
+    {
+        "package": "hal9001",
+        "url": "https://github.com/tlverse/hal9001"
+    },
+    {
+        "package": "sl3",
+        "url": "https://github.com/tlverse/sl3"
+    },
+    {
+        "package": "tmle3",
+        "url": "https://github.com/tlverse/tmle3"
+    }
+]

@@ -20,5 +20,17 @@
         "package": "tmle3",
         "url": "https://github.com/tlverse/tmle3",
         "branch": "devel"
+    },
+    {
+        "package": "tmle3mopttx",
+        "url": "https://github.com/tlverse/tmle3mopttx"
+    },
+    {
+        "package": "tmle3shift",
+        "url": "https://github.com/tlverse/tmle3shift"
+    },
+    {
+        "package": "tmle3mediate",
+        "url": "https://github.com/tlverse/tmle3mediate"
     }
 ]
